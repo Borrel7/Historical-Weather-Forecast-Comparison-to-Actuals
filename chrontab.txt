@@ -1,0 +1,6 @@
+# Enter from Terminal
+# Change h before use
+
+crontab -e
+
+0 18 * * * /rx_poc.sh
